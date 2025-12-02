@@ -7,7 +7,7 @@ let nozzleSpacing = 2;
 let jitterStrength = 0.4;
 
 function preload() {
-  img = loadImage("assets/MHD-3.png"); // Pfad anpassen
+  img = loadImage("assets/MHD-2.png"); // Pfad anpassen
 }
 
 function setup() {
